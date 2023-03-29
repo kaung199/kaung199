@@ -21,7 +21,7 @@
             </td>
         </tr>
     </table>
-    <br>
+    |
     <table>
         <tr>
             <td rowspan="4">
