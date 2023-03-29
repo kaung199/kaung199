@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ2MjQ5NWEyODVmYjRlMmQ1MGYzOWFmMjYzMGZiZGM5NWIwMTM4ZSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NjMzhkN2NlYTMzYTY4YTk0ZGQxMjAyZDZhY2M5NjQyODBkN2Y3NCZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="100">
 </div>
 
 # Kaung Htet Zaw
