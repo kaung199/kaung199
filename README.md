@@ -8,9 +8,13 @@
        <td>
          <b>Kaung Htet Zaw</b>
        </td>
+      </tr>
+  <tr>
       <td>
          <b>DOB - 03/12/1996 </b>
        </td>
+      </tr>
+  <tr>
       <td>
          <b>+95 9770904260</b>
        </td>
