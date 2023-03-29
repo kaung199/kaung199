@@ -21,4 +21,27 @@
             </td>
         </tr>
     </table>
+    <br>
+    <table>
+        <tr>
+            <td rowspan="4">
+                <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>HTML, CSS, SASS, Bootstrap </b>
+            </td>
+        </tr>
+        <tr>
+            <td> 
+                <b>PHP, Laravel, Javascript</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>Vue, React, jQuery</b>
+            </td>
+        </tr>
+    </table>
 </html>
